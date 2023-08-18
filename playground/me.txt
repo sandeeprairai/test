@@ -1,5 +1,0 @@
-{{#user}
-Name: Sandeep kumar
-Skills: HTML, CSS, JS,Python,Flask
-Email: sandeeprairai339@gmail.com
-{{/user}}
